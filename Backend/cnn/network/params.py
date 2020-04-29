@@ -1,0 +1,5 @@
+CLASSIFICATION = 'classification'
+REGRESSION = 'regression'
+IMAGE = 'image'
+TEXT = 'text'
+MATRIX = 'matrix'
